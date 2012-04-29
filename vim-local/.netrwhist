@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/var/www/mycms/mycms/home'
+let g:netrw_dirhist_2='/home/sadig/git-projects/cocoyam-cms/cocoyam/layouts'
+let g:netrw_dirhist_3='/home/sadig/git-projects/dc2/.git'
